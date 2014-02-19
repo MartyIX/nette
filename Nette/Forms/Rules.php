@@ -154,7 +154,7 @@ final class Rules extends Nette\Object implements \IteratorAggregate
 
 
 	/**
-	 * Toggles HTML elememnt visibility.
+	 * Toggles HTML element visibility.
 	 * @param  string     element id
 	 * @param  bool       hide element?
 	 * @return Rules      provides a fluent interface
